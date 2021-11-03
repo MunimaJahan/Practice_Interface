@@ -38,6 +38,6 @@ In this assignment you are going to learn how to create an interface, how to imp
   - Now calculate and print the average tution fees for a student and the average price of an item. 
 
 # Grading
-- You will get 2 marks for submitting during tutorial class.
-- Another 2 marks for completing all tasks. 
+- You will get 1 marks for submitting during tutorial class.
+- Another 1 marks for completing all tasks. 
 
